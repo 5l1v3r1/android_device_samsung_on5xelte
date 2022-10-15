@@ -1,0 +1,12 @@
+ro.hardware=samsungexynos7570
+ro.chipname=exynos7570
+ro.arch=exynos7570
+ro.product.brand=samsung
+ro.product.name=on5xelte
+ro.product.device=on5xelte
+ro.build.product=on5xelte
+ro.boot.bootdevice=13540000.dwmmc0
+ro.lcd_min_brightness=0
+ro.lcd_brightness=162
+ro.sf.lcd_density=320
+persist.sys.usb.config=mtp,adb
